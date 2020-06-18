@@ -11,6 +11,7 @@
 129元课程 新人价29.9  <br/>
 199元课程 新人价49.9 <br/>
 299元课程 新人价69.9 <br/><br/>
+注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
 * [分布式系统案例课](https://time.geekbang.org/course/intro/100053601?code=3R0rU3CsrxD9YkSQhp4pATvHgYxKaV05qRaXLelxjW4%3D) 原价: 129(元) 折扣价格: 99(元) 返现:24(元) <br/>

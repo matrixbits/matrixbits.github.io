@@ -15,6 +15,7 @@
 注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
+- [跟月影学可视化](https://time.geekbang.org/column/intro/100053801?code=i%2FcJYjXzBu6TGsjJ3MHlD2ypIpHl2eukNoLiwC%2FIAOE%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [分布式系统案例课](https://time.geekbang.org/course/intro/100053601?code=3R0rU3CsrxD9YkSQhp4pATvHgYxKaV05qRaXLelxjW4%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [正则表达式入门课](https://time.geekbang.org/column/intro/100053301?code=l02sShdJb3hnBNcMOtyQXII0nnXpvXHhKzfUYpioRDY%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [TensorFlow 2项目进阶实战](https://time.geekbang.org/course/intro/100053201?code=JsYeFhYpAP2bFMxRsQmE7Yhs9c%2FlJfUSzwOpkMuaUU4%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>

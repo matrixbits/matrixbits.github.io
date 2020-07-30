@@ -1,4 +1,7 @@
----layout: pagetitle: "z_buygeektime"permalink: /z_buygeektime---## 极客时间课程官方奖励全返给你 <br/>
+---layout: page
+title: "z_buygeektime"
+permalink: /z_buygeektime
+---## 极客时间课程官方奖励全返给你 <br/>
 ### 返现规则: <br/>
 需要实际支付金额>返现，才能得到返现哦,新人首单无返现 <br/>
 ### 新人优惠<br/>

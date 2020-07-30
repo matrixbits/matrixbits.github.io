@@ -1,7 +1,7 @@
 ---
 		layout: page
 		title: "z_buygeektime"
-		permalink: z_buygeektime
+		permalink: /z_buygeektime
 		---
 		## 极客时间课程官方奖励全返给你 <br/>
 ### 返现规则: <br/>

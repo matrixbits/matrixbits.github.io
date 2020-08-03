@@ -15,6 +15,7 @@ permalink: /buygeektime
 注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
+- [Redis核心技术与实战](https://time.geekbang.org/column/intro/100056701?code=oUKT1Skbfijw4CeSYaSff2dC1FOh1aYzvH6M-C7rWus%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Pandas数据分析实战](https://time.geekbang.org/course/intro/100056601?code=qYhp6-ezufKwSYLaEe2TuXlYT7WNGvSJKFHrlUXWnXQ%3D)<br/>原价:￥59 折扣价:￥45 返现:￥10<br/>
 - [重学线性代数](https://time.geekbang.org/column/intro/100056401?code=PGaVm5oCFyvIt0hsu%2F8phkjksfPnmqMAvLoIKankzmI%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [如何看懂一幅画](https://time.geekbang.org/column/intro/100056201?code=Li9oZFdxd9lgcbAQ%2FYF2QLKKn2Pt1H8dPJErPn%2FlXqA%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>

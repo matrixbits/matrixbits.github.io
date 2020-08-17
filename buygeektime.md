@@ -15,6 +15,8 @@ permalink: /buygeektime
 注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
+- [Linux内核技术实战课](https://time.geekbang.org/column/intro/100058001?code=M5KB%2Fu88ZSFakKSm1JvEOsZMZHkHq0IRDzagzEoNA08%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [To B市场品牌实战课](https://time.geekbang.org/column/intro/100057701?code=4JPKhazR4B-nzOVj-H2ia1jn6Nkcu5Vi647TFfI8qpI%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [分布式数据库30讲](https://time.geekbang.org/column/intro/100057401?code=ji5k13YOgR-Qu-whukhHOYQCrOHAPPuvQoVijwUVvJM%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Redis核心技术与实战](https://time.geekbang.org/column/intro/100056701?code=oUKT1Skbfijw4CeSYaSff2dC1FOh1aYzvH6M-C7rWus%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Pandas数据分析实战](https://time.geekbang.org/course/intro/100056601?code=qYhp6-ezufKwSYLaEe2TuXlYT7WNGvSJKFHrlUXWnXQ%3D)<br/>原价:￥59 折扣价:￥59 返现:￥10<br/>

@@ -15,6 +15,10 @@ permalink: /buygeektime
 注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
+- [深度学习推荐系统实战](https://time.geekbang.org/column/intro/100060801?code=qFmIkwNJ4gZjaLP0po831Npa%2F3I7420bik-f7zop3tQ%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [张汉东的Rust实战课](https://time.geekbang.org/course/intro/100060601?code=ILYBLgsiwGE8Hn8q2GdEwk7LVpzgqq7kYQVXVO5Sk7Q%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
+- [动态规划面试宝典](https://time.geekbang.org/column/intro/100060501?code=FSY95YSBbi9VR4lmtSmku4ijvDInENyR0XT9vxoGnLE%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [WebAssembly入门课](https://time.geekbang.org/column/intro/100059901?code=ej1J8iqsXnliun35xkDT90m-vaiAs3i4nJaFmTK8J2k%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
 - [Python代码重构指南](https://time.geekbang.org/course/intro/100059301?code=X-Yz6A5JhP6pOBrwMLz73VGBgkuL05VNPjfljH%2F4Fr4%3D)<br/>原价:￥69 折扣价:￥45 返现:￥10<br/>
 - [用户体验设计实战课](https://time.geekbang.org/column/intro/100059201?code=qiCiYw3zfxnUrPkhTVV6Rqp3xRYU8gXxEUrar4LkAbY%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Flink核心技术与实战](https://time.geekbang.org/course/intro/100058801?code=-rgz95H1ECCIRfOKff7LCfwrAN8VsG%2FQdswY52mfjSI%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>

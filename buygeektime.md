@@ -15,15 +15,22 @@ permalink: /buygeektime
 注意：新人第一单无法返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
-- [Linux内核技术实战课](https://time.geekbang.org/column/intro/100058001?code=T1y1lPFQzpmZkPskruDBkURzhTkpicCIyKveB4KzkeU%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
-- [To B市场品牌实战课](https://time.geekbang.org/column/intro/100057701?code=RileWV76Cz0aVTHI9ug46%2FoWh0y%2FSbThi4r%2FLgLY7hs%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [爱上跑步](https://time.geekbang.org/column/intro/100061401?code=cRaaptuHbvs9pBycb5PB8m9X6TaSOn7Jyao9AyqFF14%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [深度学习推荐系统实战](https://time.geekbang.org/column/intro/100060801?code=Dk4yOrUapw4aTDOSXbjIa2w4TcVPUS0o9ZH0rpIkk9Y%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [张汉东的Rust实战课](https://time.geekbang.org/course/intro/100060601?code=OAWZPczsQHfdpxENcb808mXW%2FXrUlrZX%2FKSBmP9nogg%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
+- [动态规划面试宝典](https://time.geekbang.org/column/intro/100060501?code=hg8d7Xrp%2FVOA20msldDw6eQyBcgMux2XHphoayOHwcU%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
+- [WebAssembly入门课](https://time.geekbang.org/column/intro/100059901?code=Z8SO2Ey6AYf3zfuGaUegvk7K3klmxxu6fT3BhVGkUWI%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
+- [用户体验设计实战课](https://time.geekbang.org/column/intro/100059201?code=BcDERJRmYpgWDhQ6C4s3NrenHz7bGcFi737hz%2FnJkG0%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [Flink核心技术与实战](https://time.geekbang.org/course/intro/100058801?code=h1tWgapY3ZyzP5xgCfdmjVE7YPjHXWHhj-UxKFxbFhc%3D)<br/>原价:￥129 折扣价:￥129 返现:￥24<br/>
+- [技术管理案例课](https://time.geekbang.org/column/intro/100058401?code=cZSdpUhWKZarhSnkvOQE7MS7Xwzt7S0uB1yt35emma8%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
+- [Linux内核技术实战课](https://time.geekbang.org/column/intro/100058001?code=T1y1lPFQzpmZkPskruDBkURzhTkpicCIyKveB4KzkeU%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
+- [To B市场品牌实战课](https://time.geekbang.org/column/intro/100057701?code=RileWV76Cz0aVTHI9ug46%2FoWh0y%2FSbThi4r%2FLgLY7hs%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
 - [分布式数据库30讲](https://time.geekbang.org/column/intro/100057401?code=WGDnEVymrlNcVBstCzEcDNR6JtNqD9DX1Ku-YkpdbpI%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Redis核心技术与实战](https://time.geekbang.org/column/intro/100056701?code=H7mm-MXEibmk3ikpUAvgAN93mPtzi6fhSP8k6R%2FSCwU%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
-- [Pandas数据分析实战](https://time.geekbang.org/course/intro/100056601?code=s67sjKMqkifbE0a23mpzoTB4egBUJcsMqhNVbqkDEUQ%3D)<br/>原价:￥59 折扣价:￥59 返现:￥10<br/>
-- [重学线性代数](https://time.geekbang.org/column/intro/100056401?code=HrH3IRE8zT9Ws5i%2FK5IdCOqt9KI5mQ1tEzzqTDEz8W8%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
-- [如何看懂一幅画](https://time.geekbang.org/column/intro/100056201?code=-eoxzrzfAW0SODbdz2eD2qJ3QS1EY6hVurNhcK%2F0bL8%3D)<br/>原价:￥99 折扣价:￥99 返现:￥24<br/>
+- [重学线性代数](https://time.geekbang.org/column/intro/100056401?code=HrH3IRE8zT9Ws5i%2FK5IdCOqt9KI5mQ1tEzzqTDEz8W8%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [如何看懂一幅画](https://time.geekbang.org/column/intro/100056201?code=-eoxzrzfAW0SODbdz2eD2qJ3QS1EY6hVurNhcK%2F0bL8%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Vim 实用技巧必知必会](https://time.geekbang.org/column/intro/100055801?code=zFp1SbPCrYkwcDPq7%2Fm7qdR5n1oIVr5Y6mw-TWIJw-0%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [Selenium自动化测试实战](https://time.geekbang.org/course/intro/100055601?code=wBlVQOx7fhECiKoZfsh52rBYAxikRFL-BKDbuBhK5j8%3D)<br/>原价:￥129 折扣价:￥129 返现:￥24<br/>
+- [Selenium自动化测试实战](https://time.geekbang.org/course/intro/100055601?code=wBlVQOx7fhECiKoZfsh52rBYAxikRFL-BKDbuBhK5j8%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Web安全攻防实战](https://time.geekbang.org/course/intro/100055001?code=%2Fz9xguOKrhtMlL9R5WNt05u4ZjxgoWA9Cb72jTqynwQ%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [OAuth 2.0实战课](https://time.geekbang.org/column/intro/100053901?code=447IXIgq3MnbQudiX2OV8cveSG4QAYfm7q1DQMVH%2FcI%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [跟月影学可视化](https://time.geekbang.org/column/intro/100053801?code=dyi153hGfIBH-48QiTExUG6HWNQtpfEEZ%2FCL3YJQSQY%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
@@ -32,9 +39,8 @@ permalink: /buygeektime
 - [TensorFlow 2项目进阶实战](https://time.geekbang.org/course/intro/100053201?code=ga%2Fpy%2FxqXmNVEA5OSYwbjUAQaRp5aCnAUvATTvaR1KA%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [编译原理实战课](https://time.geekbang.org/column/intro/100052801?code=p6%2FKIlBKAYDf%2F9XleZERo%2FTKTXwb5HN4%2FTFbjLH7bus%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [软件设计之美](https://time.geekbang.org/column/intro/100052601?code=orO7j0PLhfzLzrjAxLfnA99SYnBic8QrLZmMeaJPTLY%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [微信小程序全栈开发实战](https://time.geekbang.org/course/intro/100052401?code=U3ADnIwxp%2F6JbR6q%2F31dnrJcsUgUMFwmPsDuSu0c3a8%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [职场求生攻略](https://time.geekbang.org/column/intro/100052201?code=Qmn3idEqeadzUejHZo6LnmZujTl%2FOY9afkSPHDa6PUY%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [互联网人的英语私教课](https://time.geekbang.org/column/intro/100051901?code=UXde9lH8qTl2YpM%2FrLdzd6ZoVSk6QQumuTsOXdBL4ps%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [互联网人的英语私教课](https://time.geekbang.org/column/intro/100051901?code=UXde9lH8qTl2YpM%2FrLdzd6ZoVSk6QQumuTsOXdBL4ps%3D)<br/>原价:￥99 折扣价:￥99 返现:￥24<br/>
 - [罗剑锋的C++实战笔记](https://time.geekbang.org/column/intro/100051801?code=CdO8CDy4cBca4Dh2tQe6HxzNxHSc0Hh4xC%2FGvVS1OCQ%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [系统性能调优必知必会](https://time.geekbang.org/column/intro/100051201?code=PbknYFrd3e-xxVYSUrIoWUrBVaPIaa2yrVwFNHTAb8A%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [视觉笔记入门课](https://time.geekbang.org/column/intro/100050701?code=dXAu1f1SxwATZryjvRoe056V%2FV4BwNT0RxN9f2zta04%3D)<br/>原价:￥39 折扣价:￥29 返现:￥9.9<br/>
@@ -84,7 +90,7 @@ permalink: /buygeektime
 - [编译原理之美](https://time.geekbang.org/column/intro/100034101?code=l4hFxbQmJDQUih12IM-GjXsXjbEoVdcAIeI6Bma9uXM%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Swift核心技术与实战](https://time.geekbang.org/course/intro/100034001?code=%2FSpPLOP00sxBzWaX0Pg2m6dsOh8M4lxO4-UkPlKaU8Y%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [浏览器工作原理与实践](https://time.geekbang.org/column/intro/100033601?code=kHXMk-gDzC9AIFN4s%2FBq%2FDxnKLvAsBYAW0sXQAwKNXE%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [网络编程实战](https://time.geekbang.org/column/intro/100032701?code=jjxeuecn64qyOB%2FZalt4K5ed6i%2F7et14mO5e%2FTP9PJI%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [网络编程实战](https://time.geekbang.org/column/intro/100032701?code=jjxeuecn64qyOB%2FZalt4K5ed6i%2F7et14mO5e%2FTP9PJI%3D)<br/>原价:￥99 折扣价:￥99 返现:￥24<br/>
 - [消息队列高手课](https://time.geekbang.org/column/intro/100032301?code=B4APviPP47hY5ZurTOEoq3LiKfofMYEEeFqVtSzJnwE%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [TypeScript开发实战](https://time.geekbang.org/course/intro/100032201?code=mN3vMoj04UQAaNwRLaW0jxCIu0Xj2dq02n2LyTmu4Ss%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [从0打造音视频直播系统](https://time.geekbang.org/column/intro/100031801?code=Wm040e-tDIHgc-LJfjF8QSgvHafzvsLh5XdYjc%2FN0rI%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
@@ -108,22 +114,22 @@ permalink: /buygeektime
 - [大规模数据处理实战](https://time.geekbang.org/column/intro/100025301?code=zOgIePJ-tzA7SFjNtZg65%2FpNYbw7fQJmQfm4zwukWNc%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [许式伟的架构课](https://time.geekbang.org/column/intro/100025201?code=5Thz2%2FbOjUgypU3kJMYxaHqYd9dKHk-kbP1gnkYfa9A%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [从0开始做增长](https://time.geekbang.org/column/intro/100025001?code=G5O4T%2FeKxWgNhR%2FtGdQGHcGVdrgD68y2mQfNFcA30pY%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [趣谈Linux操作系统](https://time.geekbang.org/column/intro/100024701?code=wxAHqo7iZgP%2FU9JP%2FvrHhV4Fj9kR9PSR7r0DtvgVkMI%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
+- [趣谈Linux操作系统](https://time.geekbang.org/column/intro/100024701?code=wxAHqo7iZgP%2FU9JP%2FvrHhV4Fj9kR9PSR7r0DtvgVkMI%3D)<br/>原价:￥129 折扣价:￥129 返现:￥24<br/>
 - [Vue开发实战](https://time.geekbang.org/course/intro/100024601?code=mwuRs74IhK%2F0kvdIkRf2FUWddx7HipYwR6qo1ip4FW8%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [iOS开发高手课](https://time.geekbang.org/column/intro/100024501?code=DD5MpXNKnEj-r9f-buX9V0WMEGffrxZNOwTSJqnfDmQ%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [Go语言从入门到实战](https://time.geekbang.org/course/intro/100024001?code=98iiWwL7c-1xWFQkoKq2%2Fvelxbz5MWNOwul3IE3SJIs%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Java并发编程实战](https://time.geekbang.org/column/intro/100023901?code=Hzc2YOAi1vSmjHNauASAhkyZK-QSE-oKekCsEqlIqb0%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [软件工程之美](https://time.geekbang.org/column/intro/100023701?code=SXKXdlomlnoJvWTdo5sKU6VPFzGejl15WiyzxMTourU%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [玩转Spring全家桶](https://time.geekbang.org/course/intro/100023501?code=LxKnuiIcrvSJoZRmjFdrwUU7fnXUQlABxfWHfSulP2E%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
+- [玩转Spring全家桶](https://time.geekbang.org/course/intro/100023501?code=LxKnuiIcrvSJoZRmjFdrwUU7fnXUQlABxfWHfSulP2E%3D)<br/>原价:￥199 折扣价:￥129 返现:￥36<br/>
 - [面试现场](https://time.geekbang.org/column/intro/100023401?code=XagGgn1GCkE5ds2zWazWwzmZ4tFVKWrw6DX3HFs-tME%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
-- [重学前端](https://time.geekbang.org/column/intro/100023201?code=bPJyEDSSEltgLdSDB4INJG8aEYnw3uBptRJ3%2FIlr4Ao%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [重学前端](https://time.geekbang.org/column/intro/100023201?code=bPJyEDSSEltgLdSDB4INJG8aEYnw3uBptRJ3%2FIlr4Ao%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [TensorFlow快速入门与实战](https://time.geekbang.org/course/intro/100023001?code=4RB%2FKbJjkNahchN3JV0-O9XThyTtHA5D1XpKQIr32P4%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [10x程序员工作法](https://time.geekbang.org/column/intro/100022301?code=-VdIqaCXIeetu0sUZsJbK2mrQMXy0poT8spMhgKY290%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [数据分析实战45讲](https://time.geekbang.org/column/intro/100021701?code=0fWi-2wklZjKWk0WZDsKpAV9-TyJjVhroDtYz81JR28%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [玩转Git三剑客](https://time.geekbang.org/course/intro/100021601?code=4Gcwkj6%2FU2SoGRODpG18ty30RlQxdRYWJ7nTa62Rs1Q%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
-- [程序员的数学基础课](https://time.geekbang.org/column/intro/100021201?code=k1K4YCIn0x%2FXUzIPe-ihbxyTt9WdBd5BVvqppaui2Y4%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
+- [程序员的数学基础课](https://time.geekbang.org/column/intro/100021201?code=k1K4YCIn0x%2FXUzIPe-ihbxyTt9WdBd5BVvqppaui2Y4%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Android开发高手课](https://time.geekbang.org/column/intro/100021101?code=OI-fLhwGhg3quS3mcVsQUzGNd0HP0be%2FekZehxpnAy8%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
-- [Linux性能优化实战](https://time.geekbang.org/column/intro/100020901?code=9gF2xdtuEETgwFaga7WTj61hNGNTqJgb2-iemAC7KNs%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
+- [Linux性能优化实战](https://time.geekbang.org/column/intro/100020901?code=9gF2xdtuEETgwFaga7WTj61hNGNTqJgb2-iemAC7KNs%3D)<br/>原价:￥129 折扣价:￥129 返现:￥24<br/>
 - [MySQL实战45讲](https://time.geekbang.org/column/intro/100020801?code=qUZ28O1nzJBfAfB%2FvsfFqXKLdz0EKRbX0sgzE-sqBQY%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
 - [Nginx核心知识100讲](https://time.geekbang.org/course/intro/100020301?code=q3zXo2HsM-da7pGj7W8ZTTBXyCvgQjbBq27PxW3WxRk%3D)<br/>原价:￥199 折扣价:￥129 返现:￥36<br/>
 - [从0开始学大数据](https://time.geekbang.org/column/intro/100020201?code=nqGtfw73tWK1NyN5IGUYr%2FIx6wqylvn3j3yNiKDqJ6c%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
@@ -142,8 +148,8 @@ permalink: /buygeektime
 - [持续交付36讲](https://time.geekbang.org/column/intro/100009701?code=kvpdkJbGxrmn35Uuwo%2FBPEX21ODi7qtdfabTe45L82w%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [软件测试52讲](https://time.geekbang.org/column/intro/100009601?code=JB1gFL-eWwEqIMrR6QV7508JoYNOaNIYH5BOWWEtB%2FA%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [React实战进阶45讲](https://time.geekbang.org/course/intro/100009301?code=66dZLuCUuSElp1smfnZL7x89bBDDDKJ2KSCbrlfr7-w%3D)<br/>原价:￥199 折扣价:￥129 返现:￥36<br/>
-- [零基础学Python](https://time.geekbang.org/course/intro/100008801?code=mZbaKZSv2b6IPhAc3jiqBIKPM-7hTd7rhN7StSKDw7U%3D)<br/>原价:￥199 折扣价:￥129 返现:￥36<br/>
-- [机器学习40讲](https://time.geekbang.org/column/intro/100008701?code=95trbpVcrvq%2F5J7VCQWNeKQWhjIqYR8Ej0H10n5dpB8%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [零基础学Python](https://time.geekbang.org/course/intro/100008801?code=mZbaKZSv2b6IPhAc3jiqBIKPM-7hTd7rhN7StSKDw7U%3D)<br/>原价:￥199 折扣价:￥199 返现:￥36<br/>
+- [机器学习40讲](https://time.geekbang.org/column/intro/100008701?code=95trbpVcrvq%2F5J7VCQWNeKQWhjIqYR8Ej0H10n5dpB8%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
 - [从0开始学游戏开发](https://time.geekbang.org/column/intro/100007201?code=UO8v7h8fdIp-TBc5Q9VhKEetv6P0pG4i5ApORMIjVQU%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [趣谈网络协议](https://time.geekbang.org/column/intro/100007101?code=LH0VJbffKtGGS02e9ABIzVWwkDPGN1RNaMxQKfsqyj0%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [微服务架构实战160讲](https://time.geekbang.org/course/intro/100007001?code=oOmLhgR%2FfGGASoxHmyNaWLaAsoiOBLMHlO118YyDDuA%3D)<br/>原价:￥299 折扣价:￥199 返现:￥36<br/>
@@ -154,7 +160,7 @@ permalink: /buygeektime
 - [深入浅出区块链](https://time.geekbang.org/column/intro/100005701?code=u%2FyqGF1ZAgguJJgXGWuToo7WrTGQHw1HWHxB7CqGaPI%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [推荐系统三十六式](https://time.geekbang.org/column/intro/100005101?code=j3BKwXhCByBv268ykr1c-LPAr0fyPBHZ3RlveQB4cU8%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [赵成的运维体系管理课](https://time.geekbang.org/column/intro/100003401?code=1IsRMjT4BOvDyObUDMYUUeFOSOslh9Q5K0dbAqHVHFY%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
-- [人工智能基础课](https://time.geekbang.org/column/intro/100003101?code=ku4DQc-V8SnqToLRBl%2FAxfswQHuatrA4UkzRU4CeaEM%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [人工智能基础课](https://time.geekbang.org/column/intro/100003101?code=ku4DQc-V8SnqToLRBl%2FAxfswQHuatrA4UkzRU4CeaEM%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
 - [邱岳的产品手记](https://time.geekbang.org/column/intro/100002601?code=4A7v9wJnerSCNUMQUuMQFCTC1H12BFrRu3RSuCNmpDw%3D)<br/>原价:￥99 折扣价:￥79 返现:￥24<br/>
 - [朱赟的技术管理课](https://time.geekbang.org/column/intro/100002401?code=pk4xbsS1sYO-tLpYOymNZogLWmWldBz2FJngd0153D4%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
 - [左耳听风](https://time.geekbang.org/column/intro/100002201?code=GUKZDPRQ0GvAuXHp1usA5W8HVuDjRVv0sXPelaHbBzk%3D)<br/>原价:￥299 折扣价:￥199 返现:￥36<br/>

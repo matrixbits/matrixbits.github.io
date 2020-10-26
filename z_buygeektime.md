@@ -16,11 +16,11 @@ permalink: /z_buygeektime
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
 - [乔新亮的 CTO 成长复盘](https://time.geekbang.org/column/intro/100062901?code=uDgIZ9k0sH5f-JN5Oa1dTaJvO9LxXor9erMokHtRjdU%3D)<br/>原价:￥99 折扣价:￥79 返现:￥16<br/>
-- [手机摄影](https://time.geekbang.org/column/intro/100062401?code=uytVF6H7rDmj%2FK1ujXxKvxwObAJ38EhQ-YaIezrz8IQ%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
-- [人人都用得上的写作课](https://time.geekbang.org/column/intro/100062001?code=33jognxxjaAOq88PR8kGgPNV4V7miYyJks89ZFvJh2A%3D)<br/>原价:￥68 折扣价:￥55 返现:￥18<br/>
+- [手机摄影](https://time.geekbang.org/column/intro/100062401?code=uytVF6H7rDmj%2FK1ujXxKvxwObAJ38EhQ-YaIezrz8IQ%3D)<br/>原价:￥68 折扣价:￥55 返现:￥16<br/>
+- [人人都用得上的写作课](https://time.geekbang.org/column/intro/100062001?code=33jognxxjaAOq88PR8kGgPNV4V7miYyJks89ZFvJh2A%3D)<br/>原价:￥68 折扣价:￥55 返现:￥16<br/>
 - [Go 并发编程实战课](https://time.geekbang.org/column/intro/100061801?code=qO6tHWrE-ersQ6DHafezMrF%2FvAjjwOkk2Vvl8JeEQIg%3D)<br/>原价:￥68 折扣价:￥68 返现:￥16<br/>
-- [Django快速开发实战](https://time.geekbang.org/course/intro/100061901?code=dazVgEPQ0Xw9gnlFSluGsmenBJvPUIOsujurAB8uWls%3D)<br/>原价:￥129 折扣价:￥99 返现:￥24<br/>
-- [爱上跑步](https://time.geekbang.org/column/intro/100061401?code=cRaaptuHbvs9pBycb5PB8m9X6TaSOn7Jyao9AyqFF14%3D)<br/>原价:￥68 折扣价:￥68 返现:￥18<br/>
+- [Django快速开发实战](https://time.geekbang.org/course/intro/100061901?code=dazVgEPQ0Xw9gnlFSluGsmenBJvPUIOsujurAB8uWls%3D)<br/>原价:￥129 折扣价:￥99 返现:￥16<br/>
+- [爱上跑步](https://time.geekbang.org/column/intro/100061401?code=cRaaptuHbvs9pBycb5PB8m9X6TaSOn7Jyao9AyqFF14%3D)<br/>原价:￥68 折扣价:￥68 返现:￥16<br/>
 - [深度学习推荐系统实战](https://time.geekbang.org/column/intro/100060801?code=Dk4yOrUapw4aTDOSXbjIa2w4TcVPUS0o9ZH0rpIkk9Y%3D)<br/>原价:￥99 折扣价:￥79 返现:￥16<br/>
 - [张汉东的Rust实战课](https://time.geekbang.org/course/intro/100060601?code=OAWZPczsQHfdpxENcb808mXW%2FXrUlrZX%2FKSBmP9nogg%3D)<br/>原价:￥129 折扣价:￥99 返现:￥16<br/>
 - [动态规划面试宝典](https://time.geekbang.org/column/intro/100060501?code=hg8d7Xrp%2FVOA20msldDw6eQyBcgMux2XHphoayOHwcU%3D)<br/>原价:￥68 折扣价:￥55 返现:￥16<br/>

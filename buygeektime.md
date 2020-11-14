@@ -3,7 +3,7 @@ layout: page
 title: "buygeektime"
 permalink: /buygeektime
 ---
-## 很遗憾，告诉你， 和极客时间合作结束，这里不再返现<br/>
+## 很遗憾告诉你， 和极客时间合作结束，这里不再返现<br/>
 ### 极客时间课程目录 <br/>
  **点击下方课程名称进入相应链接购买** <br/>
 - [物联网开发实战](https://time.geekbang.org/column/intro/100063601?code=xfKNOZW5QiXtnzPyhiWvquNT8PZjVNsem974e%2FGLwyY%3D)<br/>原价:￥99 折扣价:￥79<br/>
